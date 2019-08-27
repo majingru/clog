@@ -1,2 +1,2 @@
 # clog
-simple log lib for cpp ,request C++ 11
+simple log lib for cpp ,require C++ 11
